@@ -1,0 +1,4 @@
+Attack Type,Layer/Detector,TP,FP,TN,FN,Precision,Recall,F1
+GPS Spoofing,L3 – Signal Integrity,19,0,540,41,1.0,0.31666666666666665,0.4810126582278481
+Command Injection,L2 – RBAC/Session,14,0,580,6,1.0,0.7,0.8235294117647058
+Telemetry Anomaly,L4 – AI/Anomaly (Robust-Z),40,14,546,0,0.7407407407407407,1.0,0.851063829787234
